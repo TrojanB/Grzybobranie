@@ -1,0 +1,4 @@
+Zapytanie 1: SELECT nazwa, potoczna FROM grzyby WHERE jadalny=true;
+Zapytanie 2: SELECT grzyby.nazwa, grzyby.potoczna, rodzina.nazwa FROM grzyby INNER JOIN rodzina WHERE grzyby.id = rodzina.id;
+Zapytanie 3: SELECT nazwa_pliku, potoczna FROM grzyby;
+Zapytanie 4: 

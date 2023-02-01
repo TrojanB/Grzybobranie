@@ -1,0 +1,49 @@
+*{
+    font-family: Verdana;
+}
+
+#miniatury{
+    float: left;
+    background-color: Sienna;
+    height: 100px;
+    width: 20%;
+}
+
+#tytulowy{
+    float: left;
+    background-color: Sienna;
+    color: orange;
+    height: 100px;
+    width: 80%;
+}
+
+#lewy{
+    float: left;
+    background-color: BurlyWood;
+    height: 700px;
+    width: 70%;
+}
+
+#prawy{
+    float: left;
+    background-color: BurlyWood;
+    height: 700px;
+    width: 30%;
+}
+
+footer{
+    float: left;
+    background-color: Sienna;
+    color: orange;
+    text-align: center;
+}
+
+img{
+    margin: 7px;
+    padding: 5px;
+    border: 1px RosyBrown solid;
+}
+
+img:hover{
+    border-color: Maroon;
+}
